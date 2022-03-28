@@ -1,4 +1,6 @@
 # vulnerable-app & attacker-app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fvulnerable-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fvulnerable-app?ref=badge_shield)
+
 There are two applications within this repository that were generated from the HotTowel Angular generator. The main one is the `vulnerable-app` which is found in the `/src` folder. This application was built intentionally built out with vulnerabilities to easily demonstrate how they are performed by an attacker. The secondary application is the `attacker-app` found in the `/attacker-app` folder and it was built out to assist in demonstrating an attacker's website that is exploiting the vulnerabilities in the `vulnerable-app`.
 
 ## Requirements
@@ -332,6 +334,9 @@ The `blocks.router` module contains a routing helper module that assists in addi
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fvulnerable-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Fvulnerable-app?ref=badge_large)
 
 ## Credits
 This a fork of [Clarkio](https://github.com/clarkio)'s [vulnerable-app](https://github.com/clarkio/vulnerable-app) repo.
